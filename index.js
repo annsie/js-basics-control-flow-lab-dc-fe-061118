@@ -26,6 +26,7 @@ function ternaryCheckCity(cityname) {
     switch (tiptype) {
       case 'generous':
         result = 'Thank you so much.';
+      case 
     }
     return result;
   }
