@@ -31,7 +31,7 @@ function ternaryCheckCity(cityname) {
         result = "Thank you.";
         break;
       default:
-        result = ""
+        result = "Bye.";
     }
     return result;
   }
