@@ -24,7 +24,7 @@ function ternaryCheckCity(cityname) {
   function switchOnCharmFromTip(tiptype) {
     let result
     switch (tiptype) {
-      case=
+      case ''
     }
     return result;
   }
