@@ -27,7 +27,7 @@ function ternaryCheckCity(cityname) {
       case 'generous':
         result = 'Thank you so much.';
       case 'not as generous':
-        result = 
+        result = "Thank you."
     }
     return result;
   }
