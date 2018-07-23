@@ -23,6 +23,8 @@ function ternaryCheckCity(cityname) {
   
   function switchOnCharmFromTip(tiptype) {
     let result
-    switch
+    switch (tiptype) {
+      
+    }
     return result;
   }
