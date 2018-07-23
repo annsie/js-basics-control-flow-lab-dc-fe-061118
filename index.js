@@ -21,7 +21,7 @@ function ternaryCheckCity(cityname) {
     return result;
   }
   
-  function switchOnCharmFromTip(cityname) {
+  function switchOnCharmFromTip(tiptype) {
     let result
     result = (cityname==='NYC') ? "Ok, sounds good.":"No go.";
     return result;
